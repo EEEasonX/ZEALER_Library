@@ -1,0 +1,55 @@
+{
+"page": 1,
+"page_size": 3,
+"count": "3",
+"order_refund_list": [
+{
+"oid": "213472327065698338",
+"oiid": "22636551",
+"status": "1",
+"status_desc": "退款完成",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79045116800100_520x529.png",
+"price": "20",
+"num": "1",
+"refund": "20",
+"gmt_create": "1431669809",
+"gmt_shipped": "1434355364",
+"gmt_approved": "1431669809",
+"event_id": "112153",
+"orid": "691529"
+},
+{
+"oid": "213472223704908338",
+"oiid": "22636384",
+"status": "2",
+"status_desc": "退货取消",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"refund": "10",
+"gmt_create": "1431662284",
+"gmt_shipped": "0",
+"gmt_approved": "1431662284",
+"event_id": "112153",
+"orid": "691110"
+},
+{
+"oid": "213441945630248338",
+"oiid": "22586991",
+"status": "-3",
+"status_desc": "退货取消不了",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"refund": "10",
+"gmt_create": "1431575703",
+"gmt_shipped": "1431575899",
+"gmt_approved": "1431575703",
+"event_id": "112153",
+"orid": "688229"
+}
+]
+}

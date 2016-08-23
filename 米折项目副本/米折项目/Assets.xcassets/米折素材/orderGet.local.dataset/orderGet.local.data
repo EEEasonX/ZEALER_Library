@@ -1,0 +1,89 @@
+{
+"orders": [
+{
+"status": "WAIT_FOR_SHIPPING",
+"shipping_fee": "0",
+"origin_fee": 10,
+"total_fee": 10,
+"payment": 10,
+"gmt_create": "1434546930",
+"gmt_payed": "1434546944",
+"shipment_id": "0",
+"event_id": "112153",
+"oid": "216876530892278338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"iid": "806916",
+"sku_id": "5149471",
+"sku_properties": "蓝色",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"subtotal": "10",
+"oiid": "26175381"
+}
+]
+},
+{
+"status": "WAIT_FOR_SHIPPING",
+"shipping_fee": "0",
+"origin_fee": 10,
+"total_fee": 10,
+"payment": 10,
+"gmt_create": "1432541243",
+"gmt_payed": "1432541243",
+"shipment_id": "0",
+"event_id": "112153",
+"oid": "214558043123078338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"iid": "806916",
+"sku_id": "5149471",
+"sku_properties": "蓝色",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"subtotal": "10",
+"oiid": "23822117"
+}
+]
+},
+{
+"status": "WAIT_FOR_SHIPPING",
+"shipping_fee": "0",
+"origin_fee": 10,
+"total_fee": 10,
+"payment": 10,
+"gmt_create": "1432541032",
+"gmt_payed": "1432541032",
+"shipment_id": "0",
+"event_id": "112153",
+"oid": "214557832854108338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"iid": "806916",
+"sku_id": "5149471",
+"sku_properties": "蓝色",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"subtotal": "10",
+"oiid": "23821775"
+}
+]
+}
+],
+"trades": [],
+"page": 1,
+"page_size": 3,
+"count": "3"
+}

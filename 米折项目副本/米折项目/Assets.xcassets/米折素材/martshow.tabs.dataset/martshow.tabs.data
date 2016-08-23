@@ -1,0 +1,49 @@
+[
+{
+"type": "martshow",
+"cat": "all",
+"desc": "上新",
+"api_url": "http://sapi.beibei.com/martshow/mizhe/%d-%d--.html"
+},
+{
+"type": "martshow",
+"cat": "woman_dress",
+"desc": "女装",
+"api_url": "http://sapi.beibei.com/martshow/mizhe/search/%d-%d-woman_dress--.html"
+},
+{
+"type": "martshow",
+"cat": "package",
+"desc": "鞋包",
+"api_url": "http://sapi.beibei.com/martshow/mizhe/search/%d-%d-package--.html"
+},
+{
+"type": "martshow",
+"cat": "house",
+"desc": "居家",
+"api_url": "http://sapi.beibei.com/martshow/mizhe/search/%d-%d-house--.html"
+},
+{
+"type": "martshow",
+"cat": "beauty",
+"desc": "美妆",
+"api_url": "http://sapi.beibei.com/martshow/search/%d-%d-beauty---0-0.html?package=mizhe"
+},
+{
+"type": "martshow",
+"cat": "tongzhuang",
+"desc": "童装",
+"api_url": "http://sapi.beibei.com/martshow/search/%d-%d-tongzhuang---0-0.html?package=mizhe"
+},
+{
+"type": "martshow",
+"cat": "muying",
+"desc": "母婴用品",
+"api_url": "http://sapi.beibei.com/martshow/mizhe/search/%d-%d-baby--.html"
+},
+{
+"type": "martshow",
+"desc": "昨日热卖",
+"api_url": "http://sapi.beibei.com/martshow/mizhe/%d-%d-7-3.html"
+}
+]

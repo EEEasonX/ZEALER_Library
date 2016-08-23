@@ -1,0 +1,47 @@
+[
+{
+"cat": "all",
+"desc": "上新",
+"api_url": "http://sapi.beibei.com/item/mz_temai/%d-%d-0-0-1-0.html"
+},
+{
+"cat": "nvzhuang",
+"desc": "女装",
+"api_url": "http://m.mizhe.com/temai/nvzhuang---%d-%d---1.html"
+},
+{
+"cat": "xiebao",
+"desc": "鞋包",
+"api_url": "http://m.mizhe.com/temai/xiebao---%d-%d---1.html"
+},
+{
+"cat": "jujia",
+"desc": "居家",
+"api_url": "http://m.mizhe.com/temai/jujia---%d-%d---1.html"
+},
+{
+"cat": "meizhuang",
+"desc": "美妆",
+"api_url": "http://m.mizhe.com/temai/meizhuang---%d-%d---1.html"
+},
+{
+"cat": "tongzhuang",
+"desc": "童装童鞋",
+"api_url": "http://m.mizhe.com/temai/tongzhuang---%d-%d---1.html"
+},
+{
+"cat": "muying",
+"desc": "母婴用品",
+"api_url": "http://m.mizhe.com/temai/muying---%d-%d---1.html"
+},
+{
+"cat": "last",
+"desc": "昨日热卖",
+"api_url": "http://m.mizhe.com/temai/all---%d-%d-1-.html"
+},
+{
+"cat": "next",
+"desc": "下期预告",
+"api_url": "http://m.mizhe.com/temai/next---%d-%d---1.html"
+}
+]

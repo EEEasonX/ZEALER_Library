@@ -1,0 +1,45 @@
+{
+"oid": "213472327065698338",
+"oiid": "22636551",
+"status": "2",
+"num": "1",
+"refund": "20",
+"gmt_create": "1431669809",
+"gmt_shipped": "1434355364",
+"gmt_approved": "1431669809",
+"gmt_done": "1434958388",
+"company": "测试公司",
+"out_sid": "1234567890",
+"reason": "4",
+"desc": "并将加快广西分行霍华德符合健康有好几个踟蹰不前解决韩国国防法规还将尽快解决和规范方法更加健康规划即将回归法规和斤斤计较和华国锋风风光光规划红红火火哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+"orid": "691529",
+"status_desc": "退款完成",
+"cancel_enable": false,
+"reason_desc": "商家发错货了",
+"company_name": "测试公司",
+"refund_imgs": [
+"http://b1.hucdn.com/upload/trade/1505/15/69801620868338_800x800.jpg"
+],
+"return_address":"我们的目标是哈哈哈哈嘻嘻嘻洗洗",
+"contacts":"了睡觉大路考飞机啊龙卷风放的下吗我就是这么多喝喝",
+"tel":"13282185858",
+"seller_comments": [],
+"event_id": "112153",
+"is_c2c": 0,
+"order_item": {
+"oid": "213472327065698338",
+"iid": "806916",
+"sku_id": "5149470",
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79045116800100_520x529.png",
+"price": "20",
+"origin_price": "4000",
+"num": "1",
+"subtotal": "20",
+"total_fee": "20",
+"sku_properties": "红色",
+"aftersale_status": "4"
+
+
+}
+}

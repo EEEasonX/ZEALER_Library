@@ -1,0 +1,37 @@
+[
+{
+"cat": "all",
+"desc": "上新",
+"api_url": "http://m.mizhe.com/tuan/10yuan-all---%d-%d---1.html"
+},
+{
+"cat": "baokuan",
+"desc": "爆款推荐",
+"api_url": "http://m.mizhe.com/tuan/10yuan-all---%d-%d--3.html"
+},
+{
+"cat": "nvzhuang",
+"desc": "女装",
+"api_url": "http://m.mizhe.com/tuan/10yuan-nvzhuang---%d-%d---1.html"
+},
+{
+"cat": "xiebao",
+"desc": "鞋包",
+"api_url": "http://m.mizhe.com/tuan/10yuan-xiebao---%d-%d---1.html"
+},
+{
+"cat": "jujia",
+"desc": "居家",
+"api_url": "http://m.mizhe.com/tuan/10yuan-jujia---%d-%d---1.html"
+},
+{
+"cat": "last",
+"desc": "昨日热卖",
+"api_url": "http://m.mizhe.com/tuan/10yuan-all---%d-%d-1-.html"
+},
+{
+"cat": "next",
+"desc": "下期预告",
+"api_url": "http://m.mizhe.com/tuan/tomorrow/all----%d-%d.html"
+}
+]

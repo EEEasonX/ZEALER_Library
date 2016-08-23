@@ -1,0 +1,47 @@
+{
+"tid": "18569492",
+"event_id": "100074838",
+"shipping_fee": "0",
+"item_num": "1",
+"status": "CLOSE",
+"type": "132",
+"gmt_create": "1438062520",
+"origin_fee": 990,
+"total_fee": 990,
+"payment": 890,
+"receiver_name": "周宽",
+"receiver_phone": "13282185838",
+"receiver_address": "浙江省 杭州市 江干区 东方电子商务园12幢",
+"invoice_type": "0",
+"invoice_name": "",
+"remark": "",
+"oid": "220949720359798338",
+"seller_profile": {
+"uid": "9858085",
+"nick": "mama_1DOX1R",
+"avatar": "http://b3.hucdn.com/upload/face/1506/30/94159164160760_276x276.jpg"
+},
+"point_fee": 100,
+"is_rate": true,
+"order_items": [
+{
+"iid": "2375098",
+"sku_id": "24868711",
+"sku_properties": "转运珠手链(17可延长3)",
+"title": "麦炫冰 全光面磨砂转运珠手链手镯脚链",
+"img": "http://b1.hucdn.com/upload/item/1507/05/71159856098085_800x800.jpg",
+"price": "990",
+"origin_price": "19900",
+"num": "1",
+"subtotal": "890",
+"aftersale_status": "0",
+"total_fee": "990",
+"oiid": "33138486",
+"moment_id": null,
+"discount": 4
+}
+],
+"event_type": "tuan",
+"refund_type": "tuan",
+"brand_info": "由 麦炫冰 从江苏连云港发货"
+}

@@ -1,0 +1,45 @@
+{
+"count": 1,
+"page": 1,
+"page_size": 10,
+"trades": [
+{
+"shipping_fee": "0",
+"status": "WAIT_FOR_PAY",
+"order_num": "1",
+"origin_fee": 6900,
+"total_fee": 6900,
+"point_fee": "0",
+"payment": 6900,
+"balance_fee": "0",
+"gmt_create": "1438238034",
+"tid": "18782498",
+"orders": [
+{
+"status": "WAIT_FOR_PAY",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 6900,
+"total_fee": 6900,
+"payment": 6900,
+"shipment_id": "0",
+"event_id": "139102",
+"oid": "221152434736698338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"title": "慕立 V领无袖连衣裙",
+"img": "http://b1.hucdn.com/upload/item/1507/27/87717831526633_563x563.png",
+"price": "6900",
+"num": "1",
+"subtotal": "6900",
+"oiid": "33461263"
+}
+]
+}
+],
+"gmt_payed": "0"
+}
+]
+}

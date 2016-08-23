@@ -1,0 +1,38 @@
+[
+{
+"img": "http://b1.hucdn.com/upload/category/1508/18/88047748935978_374x150.jpg",
+"title": "进口美食",
+"target": "oversea_category",
+"data": "imported_food"
+},
+{
+"img": "http://b1.hucdn.com/upload/category/1508/18/71178921595978_375x150.jpg",
+"title": "营养保健",
+"target": "oversea_category",
+"data": "health"
+},
+{
+"img": "http://b1.hucdn.com/upload/category/1508/18/88079120555978_374x150.jpg",
+"title": "用品/家居",
+"target": "oversea_category",
+"data": "supplies_home"
+},
+{
+"img": "http://b1.hucdn.com/upload/category/1508/18/71153689295978_375x150.jpg",
+"title": "美妆个护",
+"target": "oversea_category",
+"data": "beauty_makeup"
+},
+{
+"img": "http://b1.hucdn.com/upload/category/1508/18/88030990595978_374x150.jpg",
+"title": "纸尿裤",
+"target": "oversea_category",
+"data": "babythings_diaper"
+},
+{
+"img": "http://b1.hucdn.com/upload/category/1508/18/71125620425978_375x150.jpg",
+"title": "进口奶粉",
+"target": "oversea_category",
+"data": "milk_powder"
+}
+]

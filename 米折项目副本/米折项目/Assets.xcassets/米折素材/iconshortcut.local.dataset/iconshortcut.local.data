@@ -1,0 +1,62 @@
+[
+{
+"img": "http://s0.husor.cn/image/app/img_fanli.png",
+"login": 0,
+"type": 0,
+"priority": 0,
+"desc": "淘宝返利",
+"target": "http://ai.m.taobao.com?pid=mm_35109883_5252078_25854255&unid=1",
+"ver": "1.0.0",
+"data": "淘宝返利",
+"begin": 1432483200,
+"end": 1471276800
+},
+{
+"img": "http://s0.husor.cn/image/app/img_9.9.png",
+"login": 0,
+"type": 0,
+"priority": 0,
+"desc": "9.9包邮",
+"target": "10yuan",
+"data": "9kuai9",
+"ver": "3.2.0",
+"begin": 1432483200,
+"end": 1461081600
+},
+{
+"img": "http://s0.husor.cn/image/app/img_mibi.png",
+"login": 1,
+"type": 1,
+"priority": 0,
+"desc": "赚米币",
+"target": "http://h5.m.mizhe.com/app/checkin-new.html?qq-pf-to=pcqq.c2c",
+"ver": "4.2.0",
+"data": "赚米币",
+"begin": 1432224000,
+"end": 1463500800
+},
+{
+"img": "http://s0.husor.cn/image/app/img_hwgou.png",
+"login": 0,
+"type": 0,
+"priority": 0,
+"desc": "海外购",
+"target": "http://h5.m.mizhe.com/party/automation/e19e2aa210c9dced48d42c1f64c1ef3c.html",
+"ver": "1.0.0",
+"data": "海外购",
+"begin": 1432051200,
+"end": 1461081600
+},
+{
+"img": "http://s0.husor.cn/image/app/img_yugao.png",
+"login": 0,
+"type": 0,
+"priority": 0,
+"desc": "下期预告",
+"target": "yugao",
+"data": "",
+"ver": "1.0.0",
+"begin": 1432051200,
+"end": 1461081600
+}
+]

@@ -1,0 +1,18 @@
+[
+{
+"desc": "9.9包邮",
+"api_url": "http://sapi.beibei.com/martgoods/freeship/%d-%d-0_990.html?package=mizhe"
+},
+{
+"desc": "19.9包邮",
+"api_url": "http://sapi.beibei.com/martgoods/freeship/%d-%d-991_1990.html?package=mizhe"
+},
+{
+"desc": "29.9包邮",
+"api_url": "http://sapi.beibei.com/martgoods/freeship/%d-%d-1991_2990.html?package=mizhe"
+},
+{
+"desc": "更多",
+"api_url": "http://sapi.beibei.com/martgoods/freeship/%d-%d-2991_3990.html?package=mizhe"
+}
+]

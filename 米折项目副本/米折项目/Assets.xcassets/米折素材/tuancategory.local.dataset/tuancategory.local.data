@@ -1,0 +1,27 @@
+{"tuan_categorys":
+[{
+"cat": "all",
+"desc": "全部",
+"api_url": "http://sapi.beibei.com/martgoods/tuan_mizhe/search/%d-%d-%d-%@-.html"
+},
+{
+"cat": "woman_dress",
+"desc": "女装",
+"api_url": "http://sapi.beibei.com/martgoods/tuan_mizhe/search/%d-%d-%d--woman_dress.html"
+},
+{
+"cat": "package",
+"desc": "鞋包",
+"api_url": "http://sapi.beibei.com/martgoods/tuan_mizhe/search/%d-%d-%d--package.html"
+},
+{
+"cat": "baby",
+"desc": "母婴",
+"api_url": "http://sapi.beibei.com/martgoods/tuan_mizhe/search/%d-%d-%d--baby.html"
+},
+{
+"cat": "house",
+"desc": "居家",
+"api_url": "http://sapi.beibei.com/martgoods/tuan_mizhe/search/%d-%d-%d--house.html"
+}
+]}

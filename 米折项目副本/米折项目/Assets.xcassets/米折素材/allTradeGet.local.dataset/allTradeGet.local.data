@@ -1,0 +1,458 @@
+{
+"count": 77,
+"page": 1,
+"page_size": 10,
+"trades": [
+{
+"shipping_fee": "0",
+"status": "WAIT_FOR_PAY",
+"order_num": "1",
+"origin_fee": 6900,
+"total_fee": 6900,
+"point_fee": "0",
+"payment": 6900,
+"balance_fee": "0",
+"gmt_create": "1438238034",
+"tid": "18782498",
+"orders": [
+{
+"status": "WAIT_FOR_PAY",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 6900,
+"total_fee": 6900,
+"payment": 6900,
+"shipment_id": "0",
+"event_id": "139102",
+"oid": "221152434736698338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"title": "慕立 V领无袖连衣裙",
+"img": "http://b1.hucdn.com/upload/item/1507/27/87717831526633_563x563.png",
+"price": "6900",
+"num": "1",
+"subtotal": "6900",
+"oiid": "33461263"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "CLOSE",
+"order_num": "1",
+"origin_fee": 990,
+"total_fee": 990,
+"point_fee": "100",
+"payment": 890,
+"balance_fee": "0",
+"gmt_create": "1438062520",
+"tid": "18569492",
+"orders": [
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 990,
+"total_fee": 990,
+"payment": 890,
+"shipment_id": "0",
+"event_id": "100074838",
+"oid": "220949720359798338",
+"point_fee": 0,
+"event_type": "tuan",
+"items": [
+{
+"title": "麦炫冰 全光面磨砂转运珠手链手镯脚链",
+"img": "http://b1.hucdn.com/upload/item/1507/05/71159856098085_800x800.jpg",
+"price": "990",
+"num": "1",
+"subtotal": "890",
+"oiid": "33138486"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "CLOSE",
+"order_num": "1",
+"origin_fee": 10,
+"total_fee": 10,
+"point_fee": "0",
+"payment": 10,
+"balance_fee": "0",
+"gmt_create": "1437721235",
+"tid": "18160829",
+"orders": [
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 10,
+"total_fee": 10,
+"payment": 10,
+"shipment_id": "0",
+"event_id": "100072020",
+"oid": "220554035169028338",
+"point_fee": 0,
+"event_type": "tuan",
+"items": [
+{
+"title": "【0.1元抵8元】超值现金券8元（满69即可用）",
+"img": "http://b1.hucdn.com/upload/item/1507/21/62368349575207_800x800.jpg",
+"price": "10",
+"num": "1",
+"subtotal": "10",
+"oiid": "32521406"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "CLOSE",
+"order_num": "1",
+"origin_fee": 6900,
+"total_fee": 6900,
+"point_fee": "0",
+"payment": 6900,
+"balance_fee": "0",
+"gmt_create": "1437719836",
+"tid": "18158108",
+"orders": [
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 6900,
+"total_fee": 6900,
+"payment": 6900,
+"shipment_id": "0",
+"event_id": "100072359",
+"oid": "220552636280298338",
+"point_fee": 0,
+"event_type": "tuan",
+"items": [
+{
+"title": "楚锦 大尺寸1.8米四件套独版城市风格全活性亲肤棉大量花型",
+"img": "http://b1.hucdn.com/upload/item/1507/08/18734336422788_800x800.jpg",
+"price": "6900",
+"num": "1",
+"subtotal": "6900",
+"oiid": "32517072"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "CLOSE",
+"order_num": "2",
+"origin_fee": 12890,
+"total_fee": 12890,
+"point_fee": "1400",
+"payment": 11490,
+"balance_fee": "0",
+"gmt_create": "1437472362",
+"tid": "17855058",
+"orders": [
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 7000,
+"total_fee": 7000,
+"payment": 6239,
+"shipment_id": "0",
+"event_id": "137917",
+"oid": "220264363062108338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"title": "纳兰小猪童装正品 男童纯棉长袖T恤 32数字款纯棉T恤110-160码",
+"img": "http://b1.hucdn.com/upload/item/1502/08/61918032940931_800x800.jpg",
+"price": "3500",
+"num": "2",
+"subtotal": "6239",
+"oiid": "32058568"
+}
+]
+},
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 5890,
+"total_fee": 5890,
+"payment": 5251,
+"shipment_id": "0",
+"event_id": "100066577",
+"oid": "220264363067348338",
+"point_fee": 0,
+"event_type": "tuan",
+"items": [
+{
+"title": "幕立 夏装新款假2件双色拼接连衣裙2015夏季韩版时尚连衣裙 长裙",
+"img": "http://b1.hucdn.com/upload/item/1507/10/06813926726633_800x800.jpg",
+"price": "5890",
+"num": "1",
+"subtotal": "5251",
+"oiid": "32058569"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "CLOSE",
+"order_num": "3",
+"origin_fee": 38300,
+"total_fee": 38300,
+"point_fee": "0",
+"payment": 38300,
+"balance_fee": "980",
+"gmt_create": "1437127180",
+"tid": "17353965",
+"orders": [
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 23400,
+"total_fee": 23400,
+"payment": 23400,
+"shipment_id": "0",
+"event_id": "200012764",
+"oid": "219864780411398338",
+"point_fee": 0,
+"event_type": "oversea",
+"items": [
+{
+"title": "日本 拉拉裤 L44（9-14kg） 3包装",
+"img": "http://b1.hucdn.com/upload/item/1506/24/15310423924526_800x800.jpg",
+"price": "23400",
+"num": "1",
+"subtotal": "23400",
+"oiid": "31157922"
+}
+]
+},
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 6900,
+"total_fee": 6900,
+"payment": 6900,
+"shipment_id": "0",
+"event_id": "200011300",
+"oid": "219864780416628338",
+"point_fee": 0,
+"event_type": "oversea",
+"items": [
+{
+"title": "韩国Clinie针剂强效补水保湿面膜贴（10片/盒）",
+"img": "http://b1.hucdn.com/upload/item/1507/03/08943719985066_800x800.jpg",
+"price": "6900",
+"num": "1",
+"subtotal": "6900",
+"oiid": "31157923"
+}
+]
+},
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 8000,
+"total_fee": 8000,
+"payment": 8000,
+"shipment_id": "0",
+"event_id": "200011595",
+"oid": "219864780422108338",
+"point_fee": 0,
+"event_type": "oversea",
+"items": [
+{
+"title": "日本进口 洗颜专科柔澈洁面乳120g",
+"img": "http://b1.hucdn.com/upload/item/1506/17/06993190074526_800x800.jpg",
+"price": "4000",
+"num": "2",
+"subtotal": "8000",
+"oiid": "31157924"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "DONE",
+"order_num": "1",
+"origin_fee": 100,
+"total_fee": 100,
+"point_fee": "0",
+"payment": 100,
+"balance_fee": "100",
+"gmt_create": "1436351059",
+"tid": "15920551",
+"orders": [
+{
+"status": "DONE",
+"gmt_payed": "1436351060",
+"shipping_fee": "0",
+"origin_fee": 100,
+"total_fee": 100,
+"payment": 100,
+"shipment_id": "0",
+"event_id": "100063841",
+"oid": "218966259788668338",
+"point_fee": 0,
+"event_type": "tuan",
+"is_rate": false,
+"items": [
+{
+"title": "【1元抵30】超值30元现金券（满99即可使用）",
+"img": "http://b1.hucdn.com/upload/item/1507/03/03911303045207_800x800.jpg",
+"price": "100",
+"num": "1",
+"subtotal": "100",
+"oiid": "28479845"
+}
+]
+}
+],
+"gmt_payed": "1436351060"
+},
+{
+"shipping_fee": "0",
+"status": "DONE",
+"order_num": "1",
+"origin_fee": 10,
+"total_fee": 10,
+"point_fee": "0",
+"payment": 10,
+"balance_fee": "10",
+"gmt_create": "1435117997",
+"tid": "14977456",
+"orders": [
+{
+"status": "DONE",
+"gmt_payed": "1435117997",
+"shipping_fee": "0",
+"origin_fee": 10,
+"total_fee": 10,
+"payment": 10,
+"shipment_id": "15674004",
+"event_id": "112153",
+"oid": "217542797840808338",
+"point_fee": 0,
+"event_type": "show",
+"is_rate": false,
+"items": [
+{
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"subtotal": "10",
+"oiid": "26934198"
+}
+]
+}
+],
+"gmt_payed": "1435117997"
+},
+{
+"shipping_fee": "0",
+"status": "CLOSE",
+"order_num": "1",
+"origin_fee": 20,
+"total_fee": 20,
+"point_fee": "0",
+"payment": 20,
+"balance_fee": "0",
+"gmt_create": "1434704459",
+"tid": "14716692",
+"orders": [
+{
+"status": "CLOSE",
+"gmt_payed": "0",
+"shipping_fee": "0",
+"origin_fee": 20,
+"total_fee": 20,
+"payment": 20,
+"shipment_id": "0",
+"event_id": "112153",
+"oid": "217061259647868338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79045116800100_520x529.png",
+"price": "20",
+"num": "1",
+"subtotal": "20",
+"oiid": "26466156"
+}
+]
+}
+],
+"gmt_payed": "0"
+},
+{
+"shipping_fee": "0",
+"status": "DONE",
+"order_num": "1",
+"origin_fee": 10,
+"total_fee": 10,
+"point_fee": "0",
+"payment": 10,
+"balance_fee": "0",
+"gmt_create": "1434546930",
+"tid": "14569717",
+"orders": [
+{
+"status": "WAIT_FOR_SHIPPING",
+"gmt_payed": "1434546944",
+"shipping_fee": "0",
+"origin_fee": 10,
+"total_fee": 10,
+"payment": 10,
+"shipment_id": "0",
+"event_id": "112153",
+"oid": "216876530892278338",
+"point_fee": 0,
+"event_type": "show",
+"items": [
+{
+"title": "【测试商品，拍下无效】商品BBBBB",
+"img": "http://b1.hucdn.com/upload/item/1411/26/79103639930100_513x545.png",
+"price": "10",
+"num": "1",
+"subtotal": "10",
+"oiid": "26175381"
+}
+]
+}
+],
+"gmt_payed": "1434546944"
+}
+]
+}
